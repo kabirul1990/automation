@@ -15,7 +15,7 @@ public class SampleTest {
     }
 	@Test
 	public void infoTest() {
-        System.out.println("In Test! Hello World.");
+        System.out.println("Welcome to Test! Hello World.");
 
     }
 
