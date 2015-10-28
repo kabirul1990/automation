@@ -11,7 +11,7 @@ public class SampleTest {
 	}
 	@AfterClass
     public void afterClass(){
-        System.out.println("After Class");
+        System.out.println("Hello World! After Class");
     }
 	@Test
 	public void infoTest() {
