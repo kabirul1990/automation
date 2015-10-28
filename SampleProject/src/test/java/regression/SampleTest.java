@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 public class SampleTest {
 	@BeforeClass
 	public void beforeClass() {
-        System.out.println("Before Class123");
+        System.out.println("Before Class added");
 	}
 	@AfterClass
     public void afterClass(){
